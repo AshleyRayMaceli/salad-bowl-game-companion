@@ -20,7 +20,8 @@ _Salad Bowl is a fast-paced word-guessing party game meant for teams of two. On 
 
 ## Known Bugs
 
-_The UI of the app is only optimized for phones at this time. The app is functional but not visually appealing on tablets or very large phones._
+* _The UI of the app is only optimized for phones at this time. The app is functional but not visually appealing on tablets or very large phones._
+* _calculateCurrentGameWordArray() is asynchronous sometimes._
 
 ## Support and contact details
 
